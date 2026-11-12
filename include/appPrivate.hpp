@@ -1,0 +1,15 @@
+#ifndef _APP_PRIVATE_HPP_
+#define _APP_PRIVATE_HPP_
+
+#define NEW_POSITION 5
+#define DISPLAY_POSITION 6
+#define EXIT_POSITION 7
+#define X_POSITION 20
+#define MIN_Y_POSITION 5
+#define MAX_Y_POSITION 7
+#define CURSOR_X 19
+
+#define CLASS_AND_STATIC_ARRAY 0
+#define STRUCT_AND_DYNAMIC_ARRAY 1
+
+#endif
